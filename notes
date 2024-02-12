@@ -1,0 +1,9 @@
+#Link
+
+1.prefetches the link urls on view port
+2.download the content of the page not all the sections
+3.cache the request on every session (before any page reload)
+
+#not found
+nextjs navigation has a NotFound() function that returns every weher you want
+
